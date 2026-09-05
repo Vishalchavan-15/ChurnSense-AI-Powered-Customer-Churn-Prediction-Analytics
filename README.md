@@ -1,1 +1,1 @@
-# ChurnSense-AI-Powered-Customer-Churn-Prediction-Analytics
+# Customer-Churn-Prediction-Analytics
